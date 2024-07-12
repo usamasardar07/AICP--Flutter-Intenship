@@ -1,8 +1,1 @@
-
-# Resources
-
-Used packages:
-  hive,
-  hive_flutter,
-  build_runner and
-  hive_generator.
+This is simple Todo App for student.first student can login .then goes to Todo App
